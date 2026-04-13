@@ -8,7 +8,7 @@ Every story decision, character detail, plot point, and stylistic choice lives i
 
 ```bash
 # Clone the template
-git clone https://github.com/FridTwinkieWeineer/StoryEngine-Template.git
+git clone https://github.com/brian-caylor/StoryEngine-Template.git
 cd StoryEngine-Template/story-engine-template
 
 # Initialize a new project
